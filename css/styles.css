@@ -16,6 +16,8 @@ body {
 .card-img-top {
     padding: 15px;
     border-radius: 25px;
+    width: 19.33rem;
+    height: 19.33rem;
 }
 
 .part-1 {
