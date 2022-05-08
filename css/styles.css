@@ -5,7 +5,7 @@ body {
 
 h1 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.4rem;
     font-family: 'Outfit';
     color: hsl(218, 44%, 22%);
     text-align: center;
@@ -26,13 +26,11 @@ h1 {
     height: 19.33rem;
 }
 
-.part-1 {
-    font-weight: 400;
+.card p{
     font-family: 'Outfit';
     color: hsl(220, 15%, 55%);
     text-align: center;
     font-size: 15px;
-    padding: 0 5px;
 }
 
 /***ID Selectors***/
